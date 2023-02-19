@@ -1,2 +1,1 @@
-# nextjs-reddit-clone
- 
+## nextjs-reddit-clone
